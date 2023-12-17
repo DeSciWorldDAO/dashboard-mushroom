@@ -7,14 +7,14 @@
 "gallery":[{
        "name": "Intro",
        "description": "Intro",
-       "mediaUrl": "https://mushroomprotocol.io/blog/",
+       "mediaUrl": "https://i.imgur.com/Ys4BseE.png",
        "source": "image",
-       "link": "https://i.imgur.com/Ys4BseE.png"
+       "link": "https://mushroomprotocol.io/blog/"
    },  {"name": "Intro",
        "description": "Intro",
-       "mediaUrl": "https://mushroomprotocol.gitbook.io/docs",
+       "mediaUrl": "https://i.imgur.com/4KMnJOY.png",
        "source": "image",
-       "link": "https://i.imgur.com/4KMnJOY.png"}
+       "link": "https://mushroomprotocol.gitbook.io/docs"}
 ],
 "deleted":false,
 "primaryColor":"#1fafc8",
