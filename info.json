@@ -1,1 +1,33 @@
+{"name":"Mushroom Protocol",
+"tokenSymbol":" ",
+"DaoOS":"Snapshot",
+"address":"",
+"description":"Mushroom Protocol is a web3 platform that aims to decentralize science and technology financing in Latam. We transform the intellectual property of biotechnological research into tokens (IP-NFT) in which you can invest, allowing investors from all over the world to finance science and technology made in Latam.",
+"whitePaperLink":"https://mushroomprotocol.gitbook.io/docs/",
+"gallery":[{
+       "name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://mushroomprotocol.io/blog/",
+       "source": "image",
+       "link": "https://i.imgur.com/Ys4BseE.png"
+   },  {"name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://mushroomprotocol.gitbook.io/docs",
+       "source": "image",
+       "link": "https://i.imgur.com/4KMnJOY.png"}
+],
+"deleted":false,
+"primaryColor":"#1fafc8",
+"twitterHandle":"@MushromProtocol",
+"coingeckoId":"",
+"snapshotId":"",
+"logo":"https://i.imgur.com/zOwYT6J.png",
+"telegramLink":"",
+"discordLink":"",
+"website":"https://mushroomprotocol.io",
+"tokenDescription":"",
+"tokenTradeLink":"",
+"tags":["Decentralized biotech" , "NFTs", "Decentralized funding"]
+}
+
 
